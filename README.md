@@ -19,4 +19,4 @@ Run the main file:
 python main.py
 
 ## Author
-Your Name
+Saisha Kalu
